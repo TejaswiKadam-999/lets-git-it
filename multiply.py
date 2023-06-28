@@ -1,3 +1,3 @@
 def mul(a,b):
     return a*b
-print("Multiplication is ", 6*9)
+print("Multiplication is as follows", 6*9)
