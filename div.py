@@ -1,3 +1,3 @@
 def div(a,b):
     return a//b
-print("ans: ",65//5)
+print("Ans is  as follows: ",65//5)
